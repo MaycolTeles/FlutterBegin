@@ -14,4 +14,6 @@ I hope these codes help you and, if you have any questions, you can contact me o
 I suggest you to follow the steps from the tutorial that I mentioned and use the code only for some visualize purpose.
 
 The Flutter tutorial (where I get the steps to write my code) link: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0
-My e-mail: maycolteles@hotmail.com Feel free to collaborate with this project! Thanks!
+My e-mail: maycolteles@hotmail.com
+
+Feel free to collaborate with this project! Thanks!
