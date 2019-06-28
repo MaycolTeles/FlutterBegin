@@ -7,6 +7,7 @@ Hi Everyone!
 I'm here to help all of you in your journey on how to learn Flutter!
 
 Here, I have some codebase from the tutorial "Write Your First App, part 1".
+
 The code is splitted into four steps, so you can see what I've done in each step, since I've left the comments there!
 
 I hope these codes help you and, if you have any questions, you can contact me on my e-mail!
